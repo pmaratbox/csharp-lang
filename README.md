@@ -620,6 +620,7 @@ Incremental lessons learning C#.
 
 ### Immutable Collections
 - [0529-immutable-list](37-immutable-collections/0529-immutable-list/) — adding returns a new list; original unchanged
+- [0530-immutable-map](37-immutable-collections/0530-immutable-map/) — setting a key returns a new map
 
 ## How to run
 

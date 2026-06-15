@@ -634,6 +634,7 @@ Incremental lessons learning C#.
 - [0539-alternative](38-parser-combinators/0539-alternative/) — choice between two parsers
 - [0540-many](38-parser-combinators/0540-many/) — repeat a parser zero+ times
 - [0541-separated-list](38-parser-combinators/0541-separated-list/) — parse a comma-separated list
+- [0542-map-transform](38-parser-combinators/0542-map-transform/) — transform a parsed value
 
 ## How to run
 

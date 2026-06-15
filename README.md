@@ -601,6 +601,7 @@ Incremental lessons learning C#.
 ### Property-Based Testing
 - [0513-first-property](35-property-testing/0513-first-property/) — a property over generated lists
 - [0514-integer-property](35-property-testing/0514-integer-property/) — a property over generated integers
+- [0515-string-property](35-property-testing/0515-string-property/) — a property over generated strings
 
 ## How to run
 

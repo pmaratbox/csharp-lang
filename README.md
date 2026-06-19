@@ -688,6 +688,7 @@ Incremental lessons learning C#.
 
 ### HTML Parsing
 - [0583-html-select-tag](44-html-parsing/0583-html-select-tag/) — select an element by tag name
+- [0584-html-select-id](44-html-parsing/0584-html-select-id/) — select an element by id (#id)
 
 ## How to run
 

@@ -728,6 +728,7 @@ Incremental lessons learning C#.
 
 ### HTTP Clients
 - [0615-http-get](48-http-clients/0615-http-get/) — make a GET request and read the body
+- [0616-http-status](48-http-clients/0616-http-status/) — read the HTTP status code
 
 ## How to run
 

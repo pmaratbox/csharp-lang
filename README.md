@@ -820,6 +820,9 @@ Incremental lessons learning C#.
 - [0689-fp-take](56-functional-utils/0689-fp-take/) — take the first N elements
 - [0690-fp-flat-map](56-functional-utils/0690-fp-flat-map/) — map then flatten
 
+### Text Diffing
+- [0699-diff-added-count](58-diffing/0699-diff-added-count/) — number of added lines
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
